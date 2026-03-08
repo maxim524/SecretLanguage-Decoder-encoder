@@ -4,4 +4,6 @@ This is app for decoding and encoding secret language (for example: abc -> 123, 
 
 Antivirus like avast can scan the exe little bit longer, it will scan two files: launcher and the update. Just wait a bit and than u done :)
 
+(i use avast so for me everytime update happens it will scan the file)
+
 
